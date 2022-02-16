@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Simple Blog</title>
+    <link>/pages/</link>
+    <description>Recent content in Pages on Simple Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <managingEditor>bernd@gitbuch.info (bernd)</managingEditor>
+    <webMaster>bernd@gitbuch.info (bernd)</webMaster>
+    <lastBuildDate>Wed, 16 Feb 2022 21:44:06 +0100</lastBuildDate><atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/pages/about/</link>
+      <pubDate>Wed, 16 Feb 2022 21:44:06 +0100</pubDate>
+      <author>bernd@gitbuch.info (bernd)</author>
+      <guid>/pages/about/</guid>
+      <description>Erschienen: Ende August 2020
+Umfang: 416 Seiten
+ISBN: 978-3-8362-7186-8
+Preis: Euro 39,90 (in D inkl. MWSt.)
+Autoren: Bernd Öggl (Hauptautor) und Michael Kofler
+Inhalt Git gehört zum unverzichtbaren Handwerkszeug aller IT-Profis und darf in keiner Toolbox fehlen. Dabei macht es keinen Unterschied, ob Sie Konfigurationsdateien versionieren wollen, an Open-Source-Projekten mitarbeiten oder im Team komplexe Anwendungen entwickeln: Git sorgt dafür, dass Sie den Überblick behalten. Daher lernen Sie hier nicht nur, wie Sie Änderungen einchecken und fremde Repositorien klonen, sondern erfahren, wie Git Ihnen den Arbeitsalltag leichter macht.</description>
+    </item>
+    
+  </channel>
+</rss>
