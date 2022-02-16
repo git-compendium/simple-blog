@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Simple Blog</title>
+    <link>https://simple-blog.gitbuch.info/tags/</link>
+    <description>Recent content in Tags on Simple Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <managingEditor>bernd@gitbuch.info (bernd)</managingEditor>
+    <webMaster>bernd@gitbuch.info (bernd)</webMaster>
+    <lastBuildDate>Fri, 11 Feb 2022 17:47:31 +0100</lastBuildDate><atom:link href="https://simple-blog.gitbuch.info/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>powder</title>
+      <link>https://simple-blog.gitbuch.info/tags/powder/</link>
+      <pubDate>Fri, 11 Feb 2022 17:47:31 +0100</pubDate>
+      <author>bernd@gitbuch.info (bernd)</author>
+      <guid>https://simple-blog.gitbuch.info/tags/powder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>skiing</title>
+      <link>https://simple-blog.gitbuch.info/tags/skiing/</link>
+      <pubDate>Fri, 11 Feb 2022 17:47:31 +0100</pubDate>
+      <author>bernd@gitbuch.info (bernd)</author>
+      <guid>https://simple-blog.gitbuch.info/tags/skiing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>winter</title>
+      <link>https://simple-blog.gitbuch.info/tags/winter/</link>
+      <pubDate>Fri, 11 Feb 2022 17:47:31 +0100</pubDate>
+      <author>bernd@gitbuch.info (bernd)</author>
+      <guid>https://simple-blog.gitbuch.info/tags/winter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>alps</title>
+      <link>https://simple-blog.gitbuch.info/tags/alps/</link>
+      <pubDate>Thu, 10 Feb 2022 17:05:51 +0100</pubDate>
+      <author>bernd@gitbuch.info (bernd)</author>
+      <guid>https://simple-blog.gitbuch.info/tags/alps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>baloon</title>
+      <link>https://simple-blog.gitbuch.info/tags/baloon/</link>
+      <pubDate>Thu, 10 Feb 2022 17:05:51 +0100</pubDate>
+      <author>bernd@gitbuch.info (bernd)</author>
+      <guid>https://simple-blog.gitbuch.info/tags/baloon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
