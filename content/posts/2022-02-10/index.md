@@ -4,7 +4,7 @@ date: 2022-02-10T17:05:51+01:00
 draft: false
 image: /posts/2022-02-10/swiss1.jpg
 tags:
-  - baloon
+  - balloon
   - winter
   - alps
 ---
