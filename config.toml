@@ -1,4 +1,4 @@
-baseURL = "https://simple-blog.gitbuch.info/"
+# baseURL = "https://simple-blog.gitbuch.info/"
 languageCode = "de"
 title = "Simple Blog"
 theme = "beautifulhugo"
