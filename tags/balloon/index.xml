@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>baloon on Simple Blog</title>
-    <link>/tags/baloon/</link>
-    <description>Recent content in baloon on Simple Blog</description>
+    <title>balloon on Simple Blog</title>
+    <link>/tags/balloon/</link>
+    <description>Recent content in balloon on Simple Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <managingEditor>bernd@gitbuch.info (bernd)</managingEditor>
     <webMaster>bernd@gitbuch.info (bernd)</webMaster>
-    <lastBuildDate>Thu, 10 Feb 2022 17:05:51 +0100</lastBuildDate><atom:link href="/tags/baloon/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Feb 2022 17:05:51 +0100</lastBuildDate><atom:link href="/tags/balloon/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swiss alps</title>
       <link>/posts/2022-02-10/</link>
