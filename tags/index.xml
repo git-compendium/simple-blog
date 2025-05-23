@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Simple Blog</title>
-    <link>https://simple-blog.gitbuch.info/tags/</link>
+    <link>https://git-compendium.info/simple-blog/tags/</link>
     <description>Recent content in Tags on Simple Blog</description>
     <generator>Hugo</generator>
     <language>de</language>
     <lastBuildDate>Fri, 11 Feb 2022 17:47:31 +0100</lastBuildDate>
-    <atom:link href="https://simple-blog.gitbuch.info/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://git-compendium.info/simple-blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Powder</title>
-      <link>https://simple-blog.gitbuch.info/tags/powder/</link>
+      <link>https://git-compendium.info/simple-blog/tags/powder/</link>
       <pubDate>Fri, 11 Feb 2022 17:47:31 +0100</pubDate>
-      <guid>https://simple-blog.gitbuch.info/tags/powder/</guid>
+      <guid>https://git-compendium.info/simple-blog/tags/powder/</guid>
       <description></description>
     </item>
     <item>
       <title>Skiing</title>
-      <link>https://simple-blog.gitbuch.info/tags/skiing/</link>
+      <link>https://git-compendium.info/simple-blog/tags/skiing/</link>
       <pubDate>Fri, 11 Feb 2022 17:47:31 +0100</pubDate>
-      <guid>https://simple-blog.gitbuch.info/tags/skiing/</guid>
+      <guid>https://git-compendium.info/simple-blog/tags/skiing/</guid>
       <description></description>
     </item>
     <item>
       <title>Winter</title>
-      <link>https://simple-blog.gitbuch.info/tags/winter/</link>
+      <link>https://git-compendium.info/simple-blog/tags/winter/</link>
       <pubDate>Fri, 11 Feb 2022 17:47:31 +0100</pubDate>
-      <guid>https://simple-blog.gitbuch.info/tags/winter/</guid>
+      <guid>https://git-compendium.info/simple-blog/tags/winter/</guid>
       <description></description>
     </item>
     <item>
       <title>Alps</title>
-      <link>https://simple-blog.gitbuch.info/tags/alps/</link>
+      <link>https://git-compendium.info/simple-blog/tags/alps/</link>
       <pubDate>Thu, 10 Feb 2022 17:05:51 +0100</pubDate>
-      <guid>https://simple-blog.gitbuch.info/tags/alps/</guid>
+      <guid>https://git-compendium.info/simple-blog/tags/alps/</guid>
       <description></description>
     </item>
     <item>
       <title>Balloon</title>
-      <link>https://simple-blog.gitbuch.info/tags/balloon/</link>
+      <link>https://git-compendium.info/simple-blog/tags/balloon/</link>
       <pubDate>Thu, 10 Feb 2022 17:05:51 +0100</pubDate>
-      <guid>https://simple-blog.gitbuch.info/tags/balloon/</guid>
+      <guid>https://git-compendium.info/simple-blog/tags/balloon/</guid>
       <description></description>
     </item>
   </channel>
