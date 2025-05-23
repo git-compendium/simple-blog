@@ -1,4 +1,4 @@
-baseURL = "https://simple-blog.gitbuch.info/"
+baseURL = "https://git-compendium.info/simple-blog/
 languageCode = "de"
 title = "Simple Blog"
 theme = "beautifulhugo"
@@ -22,7 +22,7 @@ theme = "beautifulhugo"
 
 [Author]
   name = "bernd"
-  website = "https://gitbuch.info"
+  website = "https://git-compendium.info/"
   email = "bernd@gitbuch.info"
   github = "git-buch"
   gitlab = "gitbuch"
