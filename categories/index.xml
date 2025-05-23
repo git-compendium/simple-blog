@@ -4,9 +4,8 @@
     <title>Categories on Simple Blog</title>
     <link>https://simple-blog.gitbuch.info/categories/</link>
     <description>Recent content in Categories on Simple Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>de</language>
-    <managingEditor>bernd@gitbuch.info (bernd)</managingEditor>
-    <webMaster>bernd@gitbuch.info (bernd)</webMaster><atom:link href="https://simple-blog.gitbuch.info/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://simple-blog.gitbuch.info/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
