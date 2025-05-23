@@ -28,13 +28,13 @@ jobs:
           lfs: true
           submodules: true
       - name: Hugo setup
-        uses: peaceiris/actions-hugo@v2.4.13
+        uses: peaceiris/actions-hugo@v3.0.0
         with:
           extended: true
       - name: Build
         run: hugo
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-github-pages@v3.1.12
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
