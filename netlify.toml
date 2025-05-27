@@ -1,0 +1,5 @@
+[context.production.environment]
+TZ = "Europe/Vienna"
+
+[build]
+publish = "public"
