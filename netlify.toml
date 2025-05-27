@@ -2,6 +2,7 @@
 TZ = "Europe/Vienna"
 HUGO_VERSION = "0.147.5"
 HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "false"
 
 [build]
 publish = "public"

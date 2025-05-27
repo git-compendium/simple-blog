@@ -23,7 +23,7 @@ title = 'My New Hugo Site'
   name = "bernd"
   website = "https://git-compendium.info/"
   email = "bernd@gitbuch.info"
-  github = "git-buch"
+  github = "git-compendium"
   gitlab = "gitbuch"
 [[menu.main]]
     name = "Blog"
