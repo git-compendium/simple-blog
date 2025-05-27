@@ -1,7 +1,6 @@
-baseURL = "https://git-compendium.info/simple-blog/"
-languageCode = "de"
-title = "Simple Blog"
-theme = "beautifulhugo"
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
