@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on My New Hugo Site</title>
-    <link>https://example.org/pages/</link>
+    <link>https://simple-blog.git-compendium.info/pages/</link>
     <description>Recent content in Pages on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 16 Feb 2022 21:44:06 +0100</lastBuildDate>
-    <atom:link href="https://example.org/pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://simple-blog.git-compendium.info/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://example.org/pages/about/</link>
+      <link>https://simple-blog.git-compendium.info/pages/about/</link>
       <pubDate>Wed, 16 Feb 2022 21:44:06 +0100</pubDate>
-      <guid>https://example.org/pages/about/</guid>
+      <guid>https://simple-blog.git-compendium.info/pages/about/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/git-buch.png&#34; alt=&#34;Git&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Erschienen: Ende August 2020&lt;br&gt;&#xA;Umfang: 416 Seiten&lt;br&gt;&#xA;ISBN: 978-3-8362-7186-8&lt;br&gt;&#xA;Preis: Euro 39,90 (in D inkl. MWSt.)&lt;/p&gt;&#xA;&lt;p&gt;Autoren: &lt;a href=&#34;https://webman.at&#34;&gt;Bernd Öggl&lt;/a&gt; (Hauptautor) und &lt;a href=&#34;https://kofler.info&#34;&gt;Michael Kofler&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;inhalt&#34;&gt;Inhalt&lt;/h3&gt;&#xA;&lt;p&gt;Git gehört zum unverzichtbaren Handwerkszeug aller IT-Profis und darf in keiner&#xA;Toolbox fehlen. Dabei macht es keinen Unterschied, ob Sie Konfigurationsdateien&#xA;versionieren wollen, an Open-Source-Projekten mitarbeiten oder im Team komplexe&#xA;Anwendungen entwickeln: Git sorgt dafür, dass Sie den Überblick behalten. Daher&#xA;lernen Sie hier nicht nur, wie Sie Änderungen einchecken und fremde&#xA;Repositorien klonen, sondern erfahren, wie Git Ihnen den Arbeitsalltag leichter&#xA;macht.&lt;/p&gt;</description>
     </item>
   </channel>

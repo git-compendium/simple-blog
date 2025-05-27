@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My New Hugo Site</title>
-    <link>https://example.org/tags/</link>
+    <link>https://simple-blog.git-compendium.info/tags/</link>
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 11 Feb 2022 17:47:31 +0100</lastBuildDate>
-    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://simple-blog.git-compendium.info/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Powder</title>
-      <link>https://example.org/tags/powder/</link>
+      <link>https://simple-blog.git-compendium.info/tags/powder/</link>
       <pubDate>Fri, 11 Feb 2022 17:47:31 +0100</pubDate>
-      <guid>https://example.org/tags/powder/</guid>
+      <guid>https://simple-blog.git-compendium.info/tags/powder/</guid>
       <description></description>
     </item>
     <item>
       <title>Skiing</title>
-      <link>https://example.org/tags/skiing/</link>
+      <link>https://simple-blog.git-compendium.info/tags/skiing/</link>
       <pubDate>Fri, 11 Feb 2022 17:47:31 +0100</pubDate>
-      <guid>https://example.org/tags/skiing/</guid>
+      <guid>https://simple-blog.git-compendium.info/tags/skiing/</guid>
       <description></description>
     </item>
     <item>
       <title>Winter</title>
-      <link>https://example.org/tags/winter/</link>
+      <link>https://simple-blog.git-compendium.info/tags/winter/</link>
       <pubDate>Fri, 11 Feb 2022 17:47:31 +0100</pubDate>
-      <guid>https://example.org/tags/winter/</guid>
+      <guid>https://simple-blog.git-compendium.info/tags/winter/</guid>
       <description></description>
     </item>
     <item>
       <title>Alps</title>
-      <link>https://example.org/tags/alps/</link>
+      <link>https://simple-blog.git-compendium.info/tags/alps/</link>
       <pubDate>Thu, 10 Feb 2022 17:05:51 +0100</pubDate>
-      <guid>https://example.org/tags/alps/</guid>
+      <guid>https://simple-blog.git-compendium.info/tags/alps/</guid>
       <description></description>
     </item>
     <item>
       <title>Balloon</title>
-      <link>https://example.org/tags/balloon/</link>
+      <link>https://simple-blog.git-compendium.info/tags/balloon/</link>
       <pubDate>Thu, 10 Feb 2022 17:05:51 +0100</pubDate>
-      <guid>https://example.org/tags/balloon/</guid>
+      <guid>https://simple-blog.git-compendium.info/tags/balloon/</guid>
       <description></description>
     </item>
   </channel>
